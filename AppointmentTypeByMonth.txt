@@ -1,0 +1,52 @@
+Number of Appointment Types By Month 
+ 
+02/2017 appointment total: 4
+Appointment types: 
+ Meeting
+ Consulting
+ Consulting Test
+ Consulting0
+ 
+05/2018 appointment total: 2
+Appointment types: 
+ Meeting
+ Consulting
+ 
+06/2016 appointment total: 1
+Appointment types: 
+ Way back
+ 
+06/2018 appointment total: 15
+Appointment types: 
+ Last Week
+ Week Before Last
+ Consulting
+ Fifteen hours away
+ Yesterday
+ Tomorrow
+ Blunts Talk
+ Test appointment
+ Test again
+ Meeting Test
+ Within One Week
+ Alert Test
+ Within 24 hours
+ Lisa Within 24 hours
+ Two days away
+ 
+07/2018 appointment total: 4
+Appointment types: 
+ Awards Talk
+ Test appointment
+ One month minus one
+ One month plus one
+ 
+08/2018 appointment total: 1
+Appointment types: 
+ Appointment
+ 
+09/2018 appointment total: 1
+Appointment types: 
+ Test Appointment
+ 
+

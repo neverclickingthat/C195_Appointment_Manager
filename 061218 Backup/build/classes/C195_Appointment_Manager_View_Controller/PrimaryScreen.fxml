@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.SplitPane?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+<VBox maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="873.0" prefWidth="1287.0" xmlns="http://javafx.com/javafx/8.0.141" xmlns:fx="http://javafx.com/fxml/1" fx:controller="C195_Appointment_Manager_View_Controller.PrimaryScreenController">
+   <children>
+      <AnchorPane prefHeight="873.0" prefWidth="1287.0">
+         <children>
+            <SplitPane dividerPositions="0.23897911832946636" layoutX="-3.0" layoutY="-2.0" orientation="VERTICAL" prefHeight="864.0" prefWidth="1287.0">
+              <items>
+                <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="262.0" prefWidth="1285.0">
+                     <children>
+                        <Button fx:id="primaryScreenNewCustomerButton" layoutX="723.0" layoutY="15.0" mnemonicParsing="false" onAction="#handlePrimaryScreenNewCustomerButton" prefHeight="47.0" prefWidth="236.0" text="Add New Customer" />
+                        <Button fx:id="primaryScreenModifyCustomerButton" layoutX="723.0" layoutY="78.0" mnemonicParsing="false" onAction="#handlePrimaryScreenModifyCustomerButton" prefHeight="47.0" prefWidth="236.0" text="Modify Existing Customer" />
+                        <Button fx:id="primaryScreenDeactivateCustomerButton" layoutX="723.0" layoutY="141.0" mnemonicParsing="false" onAction="#handlePrimaryScreenDeactivateCustomerButton" prefHeight="47.0" prefWidth="236.0" text="Deactivate Customer" />
+                        <Button fx:id="primaryScreenTypesByMonthReportButton" layoutX="975.0" layoutY="14.0" mnemonicParsing="false" onAction="#handlePrimaryScreenTypesByMonthReportButton" prefHeight="47.0" prefWidth="296.0" text="Generate Appointment Types By Month Report" />
+                        <Button fx:id="primaryScreenConsultantScheduleReportButton" layoutX="975.0" layoutY="77.0" mnemonicParsing="false" onAction="#handlePrimaryScreenConsultantScheduleReportButton" prefHeight="47.0" prefWidth="296.0" text="Generate Consultant Schedule Report" />
+                        <Button fx:id="primaryScreenCustomerAdminReportButton" layoutX="975.0" layoutY="140.0" mnemonicParsing="false" onAction="#handlePrimaryScreenCustomerAdminReportButton" prefHeight="47.0" prefWidth="296.0" text="Generate Customer Schedule Report" />
+                        <Label fx:id="loginScreenApplicationNameLabel" layoutX="30.0" layoutY="27.0" prefHeight="50.0" prefWidth="323.0" text="Appointment Manager" textAlignment="CENTER">
+                           <font>
+                              <Font name="System Bold" size="30.0" />
+                           </font>
+                        </Label>
+                        <Label layoutX="30.0" layoutY="140.0" prefHeight="30.0" prefWidth="382.0" text="All Customers">
+                           <font>
+                              <Font name="System Bold" size="18.0" />
+                           </font>
+                        </Label>
+                        <Label fx:id="reportStatusText" layoutX="210.0" layoutY="149.0" prefHeight="30.0" prefWidth="482.0" textFill="#f20101">
+                           <font>
+                              <Font size="18.0" />
+                           </font>
+                        </Label>
+                     </children>
+                  </AnchorPane>
+                <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="100.0" prefWidth="160.0">
+                     <children>
+                        <TableView fx:id="primaryScreenCustomerTable" layoutX="20.0" layoutY="14.0" prefHeight="531.0" prefWidth="1249.0">
+                          <columns>
+                              <TableColumn fx:id="primaryScreenTableIDColumn" prefWidth="54.0" text="CUST ID" />
+                            <TableColumn fx:id="primaryScreenTableNameColumn" prefWidth="404.0" text="NAME" />
+                            <TableColumn fx:id="primaryScreenTableAddressColumn" minWidth="0.0" prefWidth="277.0" text="ADDRESS" />
+                              <TableColumn fx:id="primaryScreenTableCityColumn" prefWidth="204.0" text="CITY" />
+                              <TableColumn fx:id="primaryScreenTablePhoneColumn" prefWidth="206.0" text="PHONE" />
+                              <TableColumn fx:id="primaryScreenTableActiveColumn" minWidth="0.0" prefWidth="103.0" text="ACTIVE" />
+                          </columns>
+                        </TableView>
+                        <Label fx:id="primaryScreenMessageLabel" layoutX="40.0" layoutY="555.0" prefHeight="77.0" prefWidth="1192.0" textFill="#eb0505">
+                           <font>
+                              <Font name="System Bold" size="29.0" />
+                           </font>
+                        </Label>
+                        <Button fx:id="primaryScreenNewAppointmentButton" layoutX="518.0" layoutY="570.0" mnemonicParsing="false" onAction="#handlePrimaryScreenNewAppointmentButton" prefHeight="47.0" prefWidth="236.0" text="Appointment Management Screen" />
+                     </children>
+                  </AnchorPane>
+              </items>
+            </SplitPane>
+         </children>
+      </AnchorPane>
+   </children>
+</VBox>

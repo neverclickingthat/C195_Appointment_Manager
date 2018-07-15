@@ -1,0 +1,166 @@
+Schedule for Each Customer
+ 
+Customer-10: 
+Date: 2017-02-11 Description: Meeting
+ Appointment Time: 11:30 to 12:00
+Date: 2017-02-18 Description: Consulting
+ Appointment Time: 12:30 to 13:00
+Date: 2017-02-25 Description: Consulting
+ Appointment Time: 15:30 to 16:00
+
+ 
+Customer-5: 
+Date: 2018-06-11 Description: Tomorrow
+ Appointment Time: 11:00 to 11:30
+Date: 2017-02-13 Description: Consulting
+ Appointment Time: 10:00 to 10:30
+Date: 2017-02-20 Description: Consulting
+ Appointment Time: 01:30 to 02:00
+
+ 
+Ellis Brown: 
+Date: 2017-02-07 Description: Meeting
+ Appointment Time: 09:00 to 09:30
+Date: 2017-02-14 Description: Consulting
+ Appointment Time: 09:00 to 09:30
+Date: 2017-02-21 Description: Consulting
+ Appointment Time: 09:30 to 10:00
+
+ 
+Jeremy Dequaire: 
+Date: 2017-02-06 Description: Meeting
+ Appointment Time: 11:00 to 11:30
+Date: 2017-02-13 Description: Consulting
+ Appointment Time: 09:00 to 09:30
+Date: 2017-02-20 Description: Consulting
+ Appointment Time: 09:30 to 10:00
+Date: 2018-06-13 Description: Within One Week
+ Appointment Time: 14:30 to 15:00
+
+ 
+Joey Blunt: 
+Date: 2017-02-07 Description: Meeting
+ Appointment Time: 11:30 to 12:00
+Date: 2017-02-14 Description: Consulting
+ Appointment Time: 11:00 to 11:30
+Date: 2017-02-21 Description: Consulting
+ Appointment Time: 15:30 to 16:00
+Date: 2018-06-22 Description: Blunts Talk
+ Appointment Time: 16:00 to 16:30
+Date: 2018-06-12 Description: Lisa Within 24 hours
+ Appointment Time: 09:00 to 09:30
+Date: 2018-06-13 Description: Two days away
+ Appointment Time: 10:30 to 11:00
+
+ 
+Joey Bright: 
+Date: 2017-02-07 Description: Meeting
+ Appointment Time: 16:00 to 16:30
+Date: 2018-06-10 Description: Yesterday
+ Appointment Time: 11:00 to 11:30
+Date: 2017-02-12 Description: Consulting
+ Appointment Time: 14:30 to 15:00
+Date: 2018-06-29 Description: Test again
+ Appointment Time: 15:30 to 16:00
+
+ 
+John Smith: 
+Date: 2018-05-30 Description: Meeting
+ Appointment Time: 16:30 to 17:00
+Date: 2018-05-23 Description: Consulting
+ Appointment Time: 15:30 to 16:00
+Date: 2018-06-12 Description: Consulting
+ Appointment Time: 09:00 to 09:30
+
+ 
+Jon Deliusue: 
+Date: 2017-02-06 Description: Meeting
+ Appointment Time: 14:30 to 15:00
+Date: 2017-02-13 Description: Consulting
+ Appointment Time: 12:00 to 12:30
+Date: 2017-02-20 Description: Consulting
+ Appointment Time: 09:00 to 09:30
+Date: 2018-09-05 Description: Test Appointment
+ Appointment Time: 17:00 to 17:30
+Date: 2018-06-12 Description: Within 24 hours
+ Appointment Time: 09:00 to 09:30
+
+ 
+Lisa Wilcoxen: 
+Date: 2018-07-11 Description: Awards Talk
+ Appointment Time: 14:30 to 15:00
+Date: 2018-06-22 Description: Test appointment
+ Appointment Time: 14:00 to 14:30
+Date: 2018-07-11 Description: Test appointment
+ Appointment Time: 17:00 to 17:30
+
+ 
+Reynold: 
+Date: 2017-02-22 Description: Consulting
+ Appointment Time: 10:00 to 10:30
+Date: 2017-02-10 Description: Meeting
+ Appointment Time: 12:00 to 12:30
+Date: 2017-02-17 Description: Consulting
+ Appointment Time: 09:30 to 10:00
+Date: 2017-02-24 Description: Consulting
+ Appointment Time: 10:30 to 11:00
+Date: 2017-02-11 Description: Meeting
+ Appointment Time: 11:00 to 11:30
+Date: 2017-02-18 Description: Consulting
+ Appointment Time: 09:00 to 09:30
+Date: 2017-02-25 Description: Consulting Test
+ Appointment Time: 10:30 to 11:00
+Date: 2017-02-24 Description: Consulting0
+ Appointment Time: 16:00 to 16:30
+
+ 
+Ricardo Alvarez: 
+Date: 2017-02-09 Description: Meeting
+ Appointment Time: 10:30 to 11:00
+Date: 2017-02-16 Description: Consulting
+ Appointment Time: 09:30 to 10:00
+Date: 2018-06-12 Description: Fifteen hours away
+ Appointment Time: 09:00 to 09:30
+Date: 2018-07-08 Description: One month minus one
+ Appointment Time: 15:30 to 16:00
+Date: 2018-07-11 Description: One month plus one
+ Appointment Time: 09:00 to 09:30
+Date: 2016-06-03 Description: Way back
+ Appointment Time: 09:00 to 09:30
+
+ 
+Sarah Learner: 
+Date: 2018-06-11 Description: Alert Test
+ Appointment Time: 17:00 to 17:30
+
+ 
+Stan Smith: 
+Date: 2018-06-04 Description: Last Week
+ Appointment Time: 12:00 to 12:30
+Date: 2018-06-01 Description: Week Before Last
+ Appointment Time: 09:30 to 10:00
+Date: 2018-06-03 Description: Consulting
+ Appointment Time: 12:30 to 13:00
+
+ 
+Suzie Spears: 
+Date: 2017-02-10 Description: Meeting
+ Appointment Time: 10:30 to 11:00
+Date: 2017-02-24 Description: Consulting
+ Appointment Time: 09:00 to 09:30
+Date: 2018-08-23 Description: Appointment
+ Appointment Time: 11:00 to 11:30
+
+ 
+Tim Delaney: 
+Date: 2017-02-08 Description: Meeting
+ Appointment Time: 09:00 to 09:30
+Date: 2017-02-15 Description: Consulting
+ Appointment Time: 09:00 to 09:30
+Date: 2017-02-22 Description: Consulting
+ Appointment Time: 10:30 to 11:00
+Date: 2018-06-20 Description: Meeting Test
+ Appointment Time: 16:00 to 16:30
+
+ 
+
